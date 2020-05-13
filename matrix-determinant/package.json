@@ -1,0 +1,15 @@
+{
+  "name": "matrix-determinant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "jasmine": "^3.5.0",
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+  
+}
