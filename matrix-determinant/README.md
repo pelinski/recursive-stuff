@@ -1,4 +1,4 @@
-Purpose: get the determinant of a NxN matrix. The function receives a matrix written with the form `[ [a, b, c], [d, e, f], [g, h, i] ] ` where each element is a row:
+Purpose: get the determinant of a NxN matrix. The `determinant` function receives a matrix written as an array where each element corresponds to a row, i.e. `[ [a, b, c], [d, e, f], [g, h, i] ] ` meaning:
 ````
 |a b c|  
 |d e f|  
